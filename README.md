@@ -33,8 +33,7 @@ OctaBlanc :)
 Special Thanks
 Community (OctaBlanc)
 
-![image](https://user-images.githubusercontent.com/72624799/129495543-4b55b5ec-1c0f-471b-8750-44860097fe3a.png)
-
+![OWFA shot](https://user-images.githubusercontent.com/72624799/178687339-4689f9e7-d168-4fad-b979-fdea42e9c939.png)
 
 
 Java 1.8.0 and above to run game
